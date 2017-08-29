@@ -86,6 +86,7 @@ public class MainActivity extends AppCompatActivity {
         addScore(gameResult);
         setResult();
         checkScore();
+        
     }
 
     private void showAlertDialog(String message) {
