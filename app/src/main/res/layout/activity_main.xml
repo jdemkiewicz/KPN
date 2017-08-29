@@ -23,13 +23,15 @@
             android:layout_height="96dp"
             android:layout_gravity="left"
             android:layout_margin="8dp"
-            app:srcCompat="@drawable/ic_brightness_1_black_24dp" />
+            app:srcCompat="@drawable/ic_brightness_1_black_24dp"
+            tools:ignore="VectorDrawableCompat" />
 
         <ImageView
             android:id="@+id/main_paper_choice"
             android:layout_width="96dp"
             android:layout_height="96dp"
-            app:srcCompat="@drawable/ic_content_copy_black_24dp" />
+            app:srcCompat="@drawable/ic_content_copy_black_24dp"
+            tools:ignore="VectorDrawableCompat" />
 
         <ImageView
             android:id="@+id/main_scissors_choice"
@@ -37,7 +39,8 @@
             android:layout_height="96dp"
             android:layout_gravity="right"
             android:layout_margin="8dp"
-            app:srcCompat="@drawable/ic_content_cut_black_24dp" />
+            app:srcCompat="@drawable/ic_content_cut_black_24dp"
+            tools:ignore="VectorDrawableCompat" />
     </LinearLayout>
 
 
