@@ -28,7 +28,7 @@ android:
  - android-$ANDROID_API
  - android-$EMULATOR_API_LEVEL
  - android-22
- -sys-img-armeabi-v7a-android-22
+ - sys-img-armeabi-v7a-android-22
  - extra-google-m2repository
  - extra-android-m2repository # for design library
  - addon-google_apis-google-19 # google play services
