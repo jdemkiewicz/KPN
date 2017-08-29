@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KPN</string>
+    <string name="score">Wynik:</string>
+    <string name="scores">0 : 0</string>
+    <string name="user_choice">Twój wybór</string>
+    <string name="computer_choice">Wybor komputera</string>
+</resources>
